@@ -1,8 +1,9 @@
 # Backend Microservice Notification service (Learning)
 
-The purpose of this application is to learn how to use nest.js and some other backend technolies.
+The purpose of this application is to learn how to use nest.js and some other backend technoligies.
 I will be using node.js, nest.js, prisma, typescript, redis, jest, and SOLID principles to build
-the notification service.
+the notification service. It will be useful to learn concepts like inmemory database,
+repositories, and DDD.
 
 This app is part of the quick course from rocketseat ignite lab.
 
