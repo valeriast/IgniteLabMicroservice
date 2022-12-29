@@ -7,7 +7,7 @@ export interface NotificationProps{
     category: string;
     recipientId: string;
     createdAt: Date;
-    canceledAt: Date | null;
+    canceledAt?: Date | null;
     readAt?: Date | null;
 };
 
