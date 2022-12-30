@@ -8,8 +8,7 @@ repositories, and DDD.
 This app is part of the quick course from rocketseat ignite lab.
 
 ALl routes created
-![image](https://user-images.githubusercontent.com/28829768/210030335-fb673a51-251d-4e2e-9bad-d04d0730031f.png)
-
+![image](https://user-images.githubusercontent.com/28829768/210030393-dfb9e9d0-e6c9-4eb5-aa52-78ee40b10c03.png)
 
 Prisma
 ![image](https://user-images.githubusercontent.com/28829768/210030368-f9286a75-a7af-4bbd-b51a-7b96bb9ac88b.png)
