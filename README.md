@@ -5,6 +5,8 @@ I will be using node.js, nest.js, prisma, typescript, redis, jest, and SOLID pri
 the notification service. It will be useful to learn concepts like inmemory database,
 repositories, and DDD.
 
+A kafka cluster was created with upstash to make this app a consumer.
+
 This app is part of the quick course from rocketseat ignite lab.
 
 ALl routes created
