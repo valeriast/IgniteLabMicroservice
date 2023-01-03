@@ -14,3 +14,6 @@ ALl routes created
 
 Prisma
 ![image](https://user-images.githubusercontent.com/28829768/210030368-f9286a75-a7af-4bbd-b51a-7b96bb9ac88b.png)
+
+Upstash - Kafka
+![image](https://user-images.githubusercontent.com/28829768/210291655-cdf2edbc-ef3b-4981-8e16-ea4012685cf4.png)
